@@ -1,5 +1,6 @@
 body {
-    font-family: "Montserrat";
+    font-family: "Montserrat-Black";
+    text-align: center;
 }
 
 #title {
@@ -11,10 +12,13 @@ body {
     padding: 3% 15%;
 }
 
-h1 {
-    font-family: "Montserrat";
-    font-size: 3.5rem;
-    line-height: 1.5;
+h1, h2, h3, h4, h5, h6 {
+    font-family:"Montserrat";
+}
+
+p {
+    color: #8f8f8f;
+    
 }
 
 /* Navigation Bar */
@@ -60,4 +64,5 @@ h1 {
 
 .feature-box {
     text-align: center;
+    padding: 5%;
 }
