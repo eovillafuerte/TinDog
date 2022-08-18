@@ -98,4 +98,10 @@ p {
 #press {
     background-color: #ef8172;
     text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 10%;
+    margin: 20px;
 }
