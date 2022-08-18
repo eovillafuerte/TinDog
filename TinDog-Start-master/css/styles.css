@@ -16,6 +16,10 @@ h1, h2, h3, h4, h5, h6 {
     font-family:"Montserrat";
 }
 
+h2 {
+    font-size: 2rem
+}
+
 p {
     color: #8f8f8f;
 
@@ -82,4 +86,10 @@ p {
     padding: 7% 15%;
     text-align: center;
     background-color: #ef8172;
+    color: #fff;
+}
+
+.testimonial-img {
+ width:10%;
+ border-radius: 100%;
 }
