@@ -9,7 +9,7 @@ body {
 }
 
 .container-fluid {
-    padding: 3% 15%;
+    padding: 7% 15%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -56,14 +56,19 @@ p {
 /* title image */
 
 .title-image {
-    width: 60%;
+    width: 50%;
     transform: rotate(25deg);
+    position: absolute;
+    right: 200px;
+
 }
 
 /* #features */
 
 #features {
-    padding: 3% 15%;
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
 }
 
 .feature-box {
