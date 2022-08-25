@@ -186,6 +186,12 @@ body{
     padding: 7% 15%;
   }
 
+  .cta-heading {
+    font-family: "Montserrat-Black";
+    font-size: 3rem;
+    line-height: 1.5rem;
+  }
+
 
 
   @media (max-width : 992px){
