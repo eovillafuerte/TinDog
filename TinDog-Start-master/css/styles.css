@@ -178,6 +178,12 @@ body{
   }
 
 
+  /* cta section  */
+
+  #cta {
+    background-color: #FF4C68;
+  }
+
 
 
   @media (max-width : 992px){
@@ -205,4 +211,3 @@ body{
   Training
   Blog
   About
-
